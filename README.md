@@ -38,7 +38,7 @@ pip install requests
 ## Como executar
 
 ```bash
-python clima.py
+python main.py
 ```
 
 Digite o nome da cidade quando solicitado. O script vai imprimir o clima atual e o histórico de todas as consultas já realizadas.
